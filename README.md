@@ -1,1 +1,1 @@
-Here I used existing codes to save the solution at each time step as a vtk file, then these given codes, use those vtk files to plot again at a given time step. Reading of vtk file, and plotting part was done by me.
+This project uses existing codes to save the solution at each time step as a VTK file. I implemented the functionality to read these VTK files and plot the solution at a specified time step.
